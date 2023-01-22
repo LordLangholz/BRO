@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.5.2",
     "expo": "~47.0.8",
+    "expo-camera": "^13.1.0",
+    "expo-constants": "^14.0.2",
+    "expo-image-picker": "^14.0.2",
+    "expo-permissions": "^14.0.0",
+    "expo-splash-screen": "^0.17.5",
     "expo-status-bar": "~1.4.2",
+    "firebase": "^9.15.0",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-image-picker": "^4.10.2",
+    "react-native-router-flux": "^4.3.1",
+    "react-navigation-tabs": "^2.11.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
